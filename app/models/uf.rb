@@ -1,5 +1,5 @@
 class Uf < ApplicationRecord
-    def self.csv_uf_file
+    def self.uf_data
 
         #guardar en una variable un objeto de tipo File
         file = File.open('tmp/UF 2019.csv') 
