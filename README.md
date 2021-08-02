@@ -1,4 +1,4 @@
-# Desafío - My library 29-07-21
+# Desafío - Uf Api 29-07-21
 
 Décimo desafío del módulo "Desarrollo de aplicaciones web con Rails" @DesafíoLatam. El objetivo es realizar una API, utilizando arquitectura REST.
 
