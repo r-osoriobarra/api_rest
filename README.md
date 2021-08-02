@@ -1,24 +1,11 @@
-# README
+# Desafío - My library 29-07-21
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Décimo desafío del módulo "Desarrollo de aplicaciones web con Rails" @DesafíoLatam. El objetivo es realizar una API, utilizando arquitectura REST.
 
-Things you may want to cover:
+## Content
 
-* Ruby version
+El proyecto busca generar una base de datos que contengan los valores UF para el mes de enerp y febrero de 2019, a través de consultas a una Api. Adicionalmente, se deberá crear un usuario que pueda acceder a los datos, contabilizando la cantidad de consultas que éste alla realizado.
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+## Constructed with
+* Ruby 2.7.3
+* Rails 5.2.6
